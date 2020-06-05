@@ -1,0 +1,8 @@
+*.iml
+.idea
+.idea/*
+.settings/*
+/indexes/*
+/target/*
+target/
+dist/*
